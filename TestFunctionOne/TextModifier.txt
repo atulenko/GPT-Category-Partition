@@ -1,0 +1,22 @@
+# sort
+  sort Value:
+    True.
+    False.
+
+# numChars
+  numChars Value:
+    0.  [error]
+    None.
+    random value.
+    1. [single]
+    intmax. [single]
+
+# document
+  Number of lines of document:
+    1. [single]
+    Many.
+  Content of lines of document:
+    Only non-alphanumeric characters.
+    Non-alphanumeric and alphanumeric characters.
+    Both capitalization and non-capitalization of alphanumeric characters.
+    Alphanumeric characters both numbers and letters.
